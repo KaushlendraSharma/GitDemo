@@ -1,0 +1,9 @@
+Git >> Version Control
+
+
+MAndatory commands\
+
+git init
+git remote add origin url http link
+git pull origin main
+git status
