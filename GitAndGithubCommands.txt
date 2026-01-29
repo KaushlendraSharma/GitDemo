@@ -6,4 +6,8 @@ MAndatory commands\
 git init
 git remote add origin url http link
 git pull origin main
+git add .
 git status
+ git commit -m "initial commit"
+ git push
+git push --set-upstream origin master
